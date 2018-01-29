@@ -1,0 +1,22 @@
+{
+  "name": "@duza/app",
+  "version": "0.0.2",
+  "description": "test application for learning npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "duza",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duza/nodeschool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/duza/nodeschool/issues"
+  },
+  "homepage": "https://github.com/duza/nodeschool#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
