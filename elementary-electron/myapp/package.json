@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "version": "0.0.1",
+  "description": "test app for elementary electron",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "duza",
+  "license": "ISC",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
+  }
+}
